@@ -20,5 +20,9 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "recoil": "^0.7.7"
+  }
 }
